@@ -1,0 +1,8 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": { "start": "node app.js" },
+  "dependencies": { "ws": "^8.14.2" }
+}
